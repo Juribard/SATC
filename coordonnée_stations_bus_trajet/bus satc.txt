@@ -1,0 +1,300 @@
+{
+        uid = 'KORTZCENTER1',
+        name = "Kortz Center (1)",
+        aZone = 997,
+        zones = {
+            menu = {x = -2296.097, y = 428.1603, z = 173.6016},
+            passenger = {x = -2296.097, y = 428.1603, z = 173.6016},
+            departure = {x = -2315.934, y = 441.6169, z = 174.4668, h = 173.7684},
+            recieving = {x = -2315.934, y = 441.6169, z = 174.4668, h = 173.7684},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    }, 
+{
+        uid = 'MORNINGWOOD1',
+        name = "Morningwood (1)",
+        aZone = 997,
+        zones = {
+            menu = {x = -1512.373, y = -161.0893, z = 52.94166},
+            passenger = {x = -1512.373, y = -161.0893, z = 52.94166},
+            departure = {x = -1511.385, y = -155.1629, z = 52.65923, h = 309.9257},
+            recieving = {x = -1547.319, y = -151.8952, z = 54.62589, h = 128.1214},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'PORTOLADRIVE1',
+        name = "Portola Drive (1)",
+        aZone = 997,
+        zones = {
+            menu = {x = -879.716, y = -179.675, z = 37.89587},
+            passenger = {x = -879.716, y = -179.675, z = 37.89587},
+            departure = {x = -880.243, y = -173.7156, z = 37.8588, h = 298.1115},
+            recieving = {x = -878.9913, y = -144.4928, z = 37.8588, h = 207.2168},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'PILLBOXNORTH2',
+        name = "Pillbox north (2)",
+        aZone = 997,
+        zones = {
+            menu = {x = 279.5677, y = -587.7042, z = 43.31017},
+            passenger = {x = 279.5677, y = -587.7042, z = 43.31017},
+            departure = {x = 274.619, y = -588.1424, z = 43.14054, h = 338.3658},
+            recieving = {x = 244.8619, y = -589.6539, z = 42.93304, h = 155.8453},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'LOSSANTOSSTATION1',
+        name = "Los Santos Station (1)",
+        aZone = 997,
+        zones = {
+            menu = {x = 796.5999, y = -934.0997, z = 25.56009},
+            passenger = {x = 796.5999, y = -934.0997, z = 25.56009},
+            departure = {x = 792.0656, y = -934.2864, z = 25.44914, h = 4.899786},
+            recieving = {x = 771.4351, y = -942.9501, z = 25.686, h = 183.746},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'VINEWOOD1',
+        name = "Vinewood (1)",
+        aZone = 997,
+        zones = {
+            menu = {x = 110.2335, y = -195.0502, z = 54.68447},
+            passenger = {x = 110.2335, y = -195.0502, z = 54.68447},
+            departure = {x = 112.4442, y = -191.7202, z = 54.57916, h = 250.2845},
+            recieving = {x = 99.48772, y = -160.4377, z = 54.76454, h = 70.34084},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'VINEWOODBOWL1',
+        name = "Vinewood Bowl (1)",
+        aZone = 997,
+        zones = {
+            menu = {x = 723.3375, y = 666.4738, z = 129.0461},
+            passenger = {x = 723.3375, y = 666.4738, z = 129.0461},
+            departure = {x = 723.0056, y = 656.5082, z = 128.9071, h = 8.124406},
+            recieving = {x = 715.228, y = 659.5679, z = 128.9077, h = 11.03553},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'LOSSANTOSSTADIUM2',
+        name = "Los Santos Stadium (2)",
+        aZone = 997,
+        zones = {
+            menu = {x = 994.0466, y = -200.6141, z = 71.16887},
+            passenger = {x = 994.0466, y = -200.6141, z = 71.16887},
+            departure = {x = 990.6564, y = -191.5992, z = 71.62444, h = 238.0358},
+            recieving = {x = 1017.161, y = -184.8882, z = 70.34533, h = 57.55045},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'DAVIS2',
+        name = "Davis (2)",
+        aZone = 997,
+        zones = {
+            menu = {x = 110.4148, y = -1698.16, z = 29.24682},
+            passenger = {x = 110.4148, y = -1698.16, z = 29.24682},
+            departure = {x = 111.1836, y = -1704.908, z = 29.09027, h = 49.6362},
+            recieving = {x = 78.69707, y = -1712.079, z = 28.89665, h = 230.5409},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'MAZEBANKARENA1',
+        name = "Maze Bank Arena (1)",
+        aZone = 997,
+        zones = {
+            menu = {x = -144.9012, y = -1965.505, z = 22.80345},
+            passenger = {x = -144.9012, y = -1965.505, z = 22.80345},
+            departure = {x = -138.5744, y = -1972.087, z = 22.80469, h = 271.9666},
+            recieving = {x = -138.5744, y = -1972.087, z = 22.80469, h = 271.9666},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'SOUTHVESPUCCI1',
+        name = "South Vespucci (1)",
+        aZone = 997,
+        zones = {
+            menu = {x = -1046.779, y = -1648.344, z = 4.544712},
+            passenger = {x = -1046.779, y = -1648.344, z = 4.544712},
+            departure = {x = -1045.251, y = -1642.771, z = 4.432398, h = 222.7435},
+            recieving = {x = -1045.251, y = -1642.771, z = 4.432398, h = 222.7435},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'LITTLESEOUL2',
+        name = "Little Seoul (2)",
+        aZone = 997,
+        zones = {
+            menu = {x = -507.7263, y = -672.4287, z = 33.13179},
+            passenger = {x = -507.7263, y = -672.4287, z = 33.13179},
+            departure = {x = -509.7746, y = -668.1369, z = 33.03688, h = 270.5589},
+            recieving = {x = -521.8729, y = -648.9172, z = 33.13251, h = 89.64297},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'CYPRESSFLATS',
+        name = "Cypress Flats",
+        aZone = 997,
+        zones = {
+            menu = {x = 914.2162, y = -2469.865, z = 28.58876},
+            passenger = {x = 914.2162, y = -2469.865, z = 28.58876},
+            departure = {x = 913.1885, y = -2464.834, z = 28.47796, h = 263.8973},
+            recieving = {x = 913.1885, y = -2464.834, z = 28.47796, h = 263.8973},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'VESPUCCIBEACH1',
+        name = "Vespucci Beach (1)",
+        aZone = 997,
+        zones = {
+            menu = {x = -1292.175, y = -955.3816, z = 11.17179},
+            passenger = {x = -1292.175, y = -955.3816, z = 11.17179},
+            departure = {x = -1287.889, y = -956.5176, z = 11.00101, h = 195.2655},
+            recieving = {x = -1271.568, y = -944.116, z = 11.17825, h = 16.1529},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'VESPUCCI1',
+        name = "Vespucci (1)",
+        aZone = 997,
+        zones = {
+            menu = {x = -886.2615, y = -1207.055, z = 4.943782},
+            passenger = {x = -886.2615, y = -1207.055, z = 4.943782},
+            departure = {x = -892.6334, y = -1203.563, z = 4.859519, h = 300.377},
+            recieving = {x = -886.207, y = -1170.951, z = 4.793571, h = 120.4001},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'PUERTODELSOL2',
+        name = "Puerto Del Sol (2)",
+        aZone = 997,
+        zones = {
+            menu = {x = -519.1828, y = -1112.597, z = 22.25757},
+            passenger = {x = -519.1828, y = -1112.597, z = 22.25757},
+            departure = {x = -523.9227, y = -1113.886, z = 21.90666, h = 17.39979},
+            recieving = {x = -509.2252, y = -1274.987, z = 26.40732, h = 156.7528},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'STRAWBERRY1',
+        name = "Strawberry (1)",
+        aZone = 997,
+        zones = {
+            menu = {x = 275.1033, y = -1211.72, z = 29.31601},
+            passenger = {x = 275.1033, y = -1211.72, z = 29.31601},
+            departure = {x = 267.2657, y = -1216.662, z = 29.36708, h = 271.3607},
+            recieving = {x = 262.4325, y = -1187.439, z = 29.46467, h = 89.43799},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'LAPUERTA1',
+        name = "La Puerta (1)",
+        aZone = 997,
+        zones = {
+            menu = {x = -370.2927, y = -1642.016, z = 19.12761},
+            passenger = {x = -370.2927, y = -1642.016, z = 19.12761},
+            departure = {x = -366.0178, y = -1648.005, z = 18.90782, h = 150.806},
+            recieving = {x = -351.7957, y = -1662.788, z = 18.64095, h = 331.1363},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'RAMCHO1',
+        name = "Ramcho (1)",
+        aZone = 997,
+        zones = {
+            menu = {x = 436.3092, y = -2031.513, z = 23.44583},
+            passenger = {x = 436.3092, y = -2031.513, z = 23.44583},
+            departure = {x = 434.6809, y = -2024.987, z = 23.22855, h = 224.5751},
+            recieving = {x = 463.9646, y = -2019.093, z = 23.79267, h = 45.06301},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'LAMESA1',
+        name = "La Mesa (1)",
+        aZone = 997,
+        zones = {
+            menu = {x = 810.8714, y = -1355.574, z = 26.37955},
+            passenger = {x = 810.8714, y = -1355.574, z = 26.37955},
+            departure = {x = 807.6567, y = -1358.928, z = 26.32974, h = 0.270573},
+            recieving = {x = 788.0123, y = -1363.913, z = 26.40355, h = 179.5128},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'SOUTHMESA1',
+        name = "South Mesa (1)",
+        aZone = 997,
+        zones = {
+            menu = {x = 821.9124, y = -1636.324, z = 30.52274},
+            passenger = {x = 821.9124, y = -1636.324, z = 30.52274},
+            departure = {x = 825.8049, y = -1630.541, z = 30.7352, h = 174.4101},
+            recieving = {x = 852.0287, y = -1640.156, z = 30.24906, h = 354.5099},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'MIRRORPARC1',
+        name = "Mirror Parc (1)",
+        aZone = 997,
+        zones = {
+            menu = {x = 1189.521, y = -534.0649, z = 64.80795},
+            passenger = {x = 1189.521, y = -534.0649, z = 64.80795},
+            departure = {x = 1183.389, y = -536.6341, z = 64.6618, h = 354.7839},
+            recieving = {x = 1171.961, y = -487.5862, z = 65.47794, h = 166.6071},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'BANKOFSANANDREAS1',
+        name = "Bank of San Andreas (1)",
+        aZone = 997,
+        zones = {
+            menu = {x = 228.7358, y = 169.7717, z = 105.3073},
+            passenger = {x = 228.7358, y = 169.7717, z = 105.3073},
+            departure = {x = 233.301, y = 173.0061, z = 105.1331, h = 248.6562},
+            recieving = {x = 275.363, y = 179.8702, z = 104.4982, h = 70.0905},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'EASTVINEWOOD1',
+        name = "East Vinewood (1)",
+        aZone = 997,
+        zones = {
+            menu = {x = 663.2332, y = 6.107045, z = 84.60574},
+            passenger = {x = 663.2332, y = 6.107045, z = 84.60574},
+            departure = {x = 663.8897, y = 12.95983, z = 84.5339, h = 241.3984},
+            recieving = {x = 662.8507, y = 40.80684, z = 85.36501, h = 67.84499},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
+{
+        uid = 'BURTON3',
+        name = "Burton (3)",
+        aZone = 997,
+        zones = {
+            menu = {x = -313.5526, y = -376.2213, z = 30.10176},
+            passenger = {x = -313.5526, y = -376.2213, z = 30.10176},
+            departure = {x = -335.4741, y = -350.8083, z = 30.24114, h = 233.0965},
+            recieving = {x = -306.4055, y = -371.8592, z = 29.91259, h = 234.4757},
+        },
+        blip = {sprite = 58, color = 3, scale = 1.0}
+    },
