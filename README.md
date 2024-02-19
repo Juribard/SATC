@@ -16,5 +16,4 @@ Contenu du dossier:
 Note:
 Avril 2023: 
 Creative d’un site internet fictif(en local) avec le langage web HTML et CSS pour mettre en pratique les compétence apprise durant la formation au Greta Côtes Normandes.
-(fichier “site-satc”)
 
