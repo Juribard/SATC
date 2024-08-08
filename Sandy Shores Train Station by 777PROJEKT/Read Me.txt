@@ -1,0 +1,29 @@
+
+
+Sandy Shores Train Station by 777PROJEKT
+
+
+Waiting for a Sandy Shores train station, i do my own... but i'm glad to see others versions :)
+
+
+You need:
+
+Map Editor : https://www.gta5-mods.com/scripts/map-editor 
+            
+Object Spawn Unlocker or Menyoo :  https://www.gta5-mods.com/scripts/object-spawn-unlocker
+                                :  https://www.gta5-mods.com/scripts/menyoo-pc-sp
+
+Object list 10k : https://www.gta5-mods.com/tools/object-list-10k
+
+
+
+
+There are 2 files.xml with different atmospheres, one for the day and one for the night.
+
+Put the 2 files in Gta V main filder, in game open Map Editor and load "t day" or "t night"
+
+
+
+
+I don't tested with all trains but it's ok for Siemens Desiro : https://fr.gta5-mods.com/vehicles/siemens-desiro-rus-lastochka
+                                          and Intercity Wagon : https://fr.gta5-mods.com/vehicles/db-intercity-wagon
